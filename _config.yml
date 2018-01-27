@@ -1,3 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes
 title: Movies 
 include: ["pages"]
+
+author: Darlene Estrella
+avatar: "https://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=7961044"
+bio: "All things cinematic"
